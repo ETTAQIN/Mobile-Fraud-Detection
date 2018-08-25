@@ -16,4 +16,4 @@ Mobile money transactions becomes increasingly important in people's daily life.
 * Compare the prediction redults on the raw imbalanced dataset in three situations.
 
 ## Dataset
-The dataset made available on [Kaggle](https://www.kaggle.com/ntnu-testimon/paysim1 ) contains mobile money transactions based on a sample of real transactions extracted from one month of financial logs from a mobile money service implemented in an African country. The original logs were provided by a multinational company, who is the provider of the mobile financial service which is currently running in more than 14 countries all around the world.
+The dataset made available on [Kaggle](https://www.kaggle.com/ntnu-testimon/paysim1 ) contains mobile money transactions based on a sample of real transactions extracted from one month of financial logs from a mobile money service implemented in an African country. The original logs were provided by a multinational company, who is the provider of the mobile financial service which is currently running in more than 14 countries all around the world. (The dataset is too big to upload, you can download it from Kaggle)
